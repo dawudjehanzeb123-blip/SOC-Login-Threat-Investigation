@@ -147,3 +147,14 @@ It explores how repeated authentication failures, unusual MFA records and subseq
 The project has helped develop practical skills in Python, security monitoring, timestamp analysis, event correlation and incident reporting.
 
 **Project status:** Initial portfolio project completed. Further improvements and testing are ongoing.
+
+
+## Project Screenshots
+
+### 1. Python Investigation Output
+
+![Python investigation output](screenshots/script-output.png)
+
+### 2. Generated Incident Report
+
+![Generated incident report](screenshots/incident-report.png)
